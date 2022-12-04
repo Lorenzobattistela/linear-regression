@@ -4,7 +4,7 @@ This repository aims to understand the math behind linear regression and build a
 
 First of all, I import some test data provided by [this kaggle dataset.](https://www.kaggle.com/datasets/andonians/random-linear-regression?select=train.csv)
 
-Then, I utilize some numbers provided by Wikipedia on Simple linear regretion article [(see references)](#references) and do the calculations by hand, and check the results.
+Then, I utilize some numbers provided by Wikipedia on Simple linear regression article [(see references)](#references) and do the calculations by hand, and check the results.
 
 On `helpers.py`, math functions built by hand too are used to do this process in the entire dataset, and results are compared to the calculation done by hand.
 
