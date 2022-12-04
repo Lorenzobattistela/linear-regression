@@ -26,7 +26,19 @@ This model utilizes Linear Least Squares for fitting and sum of squared errors.
 
 - The relationship is modeled through a disturbance term or error variable - a random variable that adds “noise” to the linear relationship between dependent variable and regressors.
 
+# Running the project
 
+To see the model and graph, be sure to have all dependencies installed:
+```py
+pip3 install matplotlib
+pip3 install pandas
+```
+
+and run
+
+```py
+python3 linear_regression.py
+```
 
 # References
 
